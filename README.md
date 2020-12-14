@@ -9,3 +9,11 @@ These are the solutions to the assignment problems given during Python placement
 - Odd or Even number
 - ATM Simulator
 
+# Assignment 2
+
+- Pattern printing
+- Factorial of a number
+- Fibonacci series
+
+
+
